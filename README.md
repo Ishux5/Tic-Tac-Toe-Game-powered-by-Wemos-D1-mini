@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game-powered-by-Wemos-D1-mini
 
-## Idea:
+## Idea
 
 The Idea started when I was working on a birthday present for a friend. It was a 7 Segment Clock powered by an ESP32. The core part was to build something powered by a microcontroller by using a PCB and a Bettery Pack. I then setteled on building a Tic-Tac-Toe because I thought it was relatively simple. The code would be simple, the PCB-layout would be simple and it would be easy to manufacture a couple of them.
 
