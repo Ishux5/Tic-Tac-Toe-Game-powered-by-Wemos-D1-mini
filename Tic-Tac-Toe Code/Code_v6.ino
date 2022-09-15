@@ -1,3 +1,6 @@
+// by Christian Rahn
+
+
 #include <FastLED.h>
 
 // LEDs
