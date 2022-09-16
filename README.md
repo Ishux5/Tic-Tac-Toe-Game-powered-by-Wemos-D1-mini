@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game-powered-by-Wemos-D1-mini
+# Tic-Tac-Toe-powered-by-D1-mini
 
 ## Idea
 
