@@ -1,3 +1,4 @@
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 # Tic-Tac-Toe-powered-by-D1-mini
 
 ## Idea
@@ -66,8 +67,6 @@ After all I am very Happy how it turned out. It is functioning as I wanted it, l
 14. Connect the JST – Male header with the JST – Female header on the PCB
 
 ## License
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
