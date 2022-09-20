@@ -1,8 +1,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 # Tic-Tac-Toe-powered-by-D1-mini
 
-[![Tic-Tac-Toe making of](https://postimg.cc/JDHLjKZZ)](https://youtu.be/2Q2LxaJ6QfE "Tic-Tac-Toe making of")
-[]()
+[![Tic-Tac-Toe making of](https://github.com/Ishux5/Tic-Tac-Toe-powered-by-D1-mini/blob/main/Images/Konstruktion_2022-Sep-20_01-05-23AM-000_CustomizedView2792266026_png.png)]
 
 ## Idea
 
