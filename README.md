@@ -27,7 +27,7 @@ After all I am very Happy how it turned out. It is functioning as I wanted it, l
 | 3      | AZDelivery D1 Mini NodeMcu ESP8266-12F              | 1        |
 | 4      | [LiPo 1200mAh 3,7V Batterie][lipolink]              | 1        |
 | 5      | [SK6812 MINI-E RGB][ledlink]                        | 11       |
-| 6      | [SALECOM SS 13ASP][powerswtichlink]                 | 1        |
+| 6      | [SALECOM SS 13ASP][powerswitchlink]                 | 1        |
 | 7      | [Short-Stroke switch 5mm][shortstrokelink]          | 1        |
 | 8      | [Micro USB to DIP breakout Board][usbbreakoutlink]  | 1        |
 | 9      | JST – Connecter Female 90°                          | 1        |
