@@ -1,9 +1,6 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-# Tic-Tac-Toe-powered-by-D1-mini
+# Tic-Tac-Toe-Game-powered-by-Wemos-D1-mini
 
-![Tic-Tac-Toe making of](https://github.com/Ishux5/Tic-Tac-Toe-powered-by-D1-mini/blob/main/Images/Konstruktion_2022-Sep-20_01-05-23AM-000_CustomizedView2792266026_png.png)
-
-## Idea
+## Idea:
 
 The Idea started when I was working on a birthday present for a friend. It was a 7 Segment Clock powered by an ESP32. The core part was to build something powered by a microcontroller by using a PCB and a Bettery Pack. I then setteled on building a Tic-Tac-Toe because I thought it was relatively simple. The code would be simple, the PCB-layout would be simple and it would be easy to manufacture a couple of them.
 
@@ -20,27 +17,28 @@ After all I am very Happy how it turned out. It is functioning as I wanted it, l
 
 ## Parts
 
-| Item # | Component                                           | Quantity |
-| :----- | :-------------------------------------------------- | :------- |
-| 1      | [Cherry MX Blue switches, MX1A-E1NA][switchlink]    | 9        |
-| 2      | [AZDelivery Battery Shield for D1 Mini][shieldlink] | 1        |
-| 3      | AZDelivery D1 Mini NodeMcu ESP8266-12F              | 1        |
-| 4      | [LiPo 1200mAh 3,7V Batterie][lipolink]              | 1        |
-| 5      | [SK6812 MINI-E RGB][ledlink]                        | 11       |
-| 6      | [SALECOM SS 13ASP][powerswitchlink]                 | 1        |
-| 7      | [Short-Stroke switch 5mm][shortstrokelink]          | 1        |
-| 8      | [Micro USB to DIP breakout Board][usbbreakoutlink]  | 1        |
-| 9      | JST – Connecter Female 90°                          | 1        |
-| 10     | [JST – Connector wire][jstwirelink]                 | 1        |
-| 11     | 10k Ohm Resistor                                    | 1        |
-| 12     | 100k Ohm Resistor                                   | 1        |
-| 13     | [Micro USB Power Cable 20 cm][usbwirelink]          | 1        |
-| 14     | [M4 Threaded Inserts][insertslink]                  | 4        |
-| 15     | M4 Cylindrical Screws                               | 4        |
-| 16     | [Tic-Tac-Toe PCB][pcblink]                          | 1        |
+| Item # | Component                                                     | Quantity |
+| :----- | :------------------------------------------------------------ | :------- |
+| 1      | [Cherry MX Blue switches, MX1A-E1NA][switchlink]              | 9        |
+| 2      | [AZDelivery Battery Shield for D1 Mini][shieldlink]           | 1        |
+| 3      | [AZDelivery D1 Mini NodeMcu ESP8266-12F][microcontrollerlink] | 1        |
+| 4      | [LiPo 1200mAh 3,7V Batterie][lipolink]                        | 1        |
+| 5      | [SK6812 MINI-E RGB][ledlink]                                  | 11       |
+| 6      | [SALECOM SS 13ASP][powerswtichlink]                           | 1        |
+| 7      | [Short-Stroke switch 5mm][shortstrokelink]                    | 1        |
+| 8      | [Micro USB to DIP breakout Board][usbbreakoutlink]            | 1        |
+| 9      | JST – Connecter Female 90°                                    | 1        |
+| 10     | [JST – Connector wire][jstwirelink]                           | 1        |
+| 11     | 10k Ohm Resistor                                              | 1        |
+| 12     | 100k Ohm Resistor                                             | 1        |
+| 13     | [Micro USB Power Cable 20 cm][usbwirelink]                    | 1        |
+| 14     | [M4 Threaded Inserts][insertslink]                            | 4        |
+| 15     | M4 Cylindrical Screws                                         | 4        |
+| 16     | [Tic-Tac-Toe PCB][pcblink]                                    | 1        |
 
 [switchlink]: https://de.aliexpress.com/item/1005003772714638.html?spm=a2g0o.order_detail.0.0.799c6368iBbwmS&gatewayAdapt=glo2deu
 [shieldlink]: https://www.amazon.de/-/en/dp/B07XB75NTD/ref=twister_B07ZRK81LT?_encoding=UTF8&psc=1
+[microcontrollerlink]: https://www.az-delivery.de/collections/alle-produkte/products/d1-mini
 [lipolink]: https://www.ebay.de/itm/282581166241
 [ledlink]: https://de.aliexpress.com/item/1005002865070175.html?spm=a2g0o.order_list.0.0.21ef5c5fAsRIgP&gatewayAdapt=glo2deu
 [powerswitchlink]: https://www.reichelt.de/schiebeschalter-1x-um-stehend-print-rm-4-7-ss-13asp-p112182.html?&nbc=1
@@ -69,6 +67,8 @@ After all I am very Happy how it turned out. It is functioning as I wanted it, l
 14. Connect the JST – Male header with the JST – Female header on the PCB
 
 ## License
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
